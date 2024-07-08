@@ -1,8 +1,5 @@
 #  Keylogger
-
-
 ## Description
-
 - This repository contains a Python-based key logger that logs keystrokes to a text file (`keylogger.txt`). It includes additional scripts (`script.vbs` and `script.bat`) to execute the logger silently.
 
 ## How It Works
@@ -23,7 +20,6 @@ C:\path\to\key-logger-repo> script.vbs
 
 - The key logger logs keystrokes to keylogger.txt in the current directory.
 - Ensure you have appropriate permissions before running the logger.
-- 
 # Legal
 - This key logger is intended for educational purposes only. Use responsibly and only with explicit consent.
 
