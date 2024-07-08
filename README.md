@@ -16,7 +16,7 @@
 3. Press `Esc` to stop the key logger.
 
 # Example
-```batch
+`batch`
 C:\path\to\key-logger-repo> script.vbs
 
 # Notes
