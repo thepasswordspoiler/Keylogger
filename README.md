@@ -15,7 +15,7 @@
 2. Run `script.vbs` to start logging keystrokes.
 3. Press `Esc` to stop the key logger.
 
-## Example
+# Example
 ```batch
 C:\path\to\key-logger-repo> script.vbs
 
